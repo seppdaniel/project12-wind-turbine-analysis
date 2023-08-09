@@ -12,6 +12,6 @@ Estabeleci uma regra: se a curva teórica da turbina for maior que a curva de er
 3. Exploração Visual em Formato de Dashboard
 Para visualizar essas informações, criei um dashboard de gráficos usando o Seaborn e o Matplotlib. Coloquei lado a lado três gráficos essenciais: a relação entre a potência ativa e a velocidade do vento, a comparação da curva teórica com a velocidade do vento e uma visualização colorida da potência ativa com limites de eficiência para melhor distinção dos dados na perspectiva visual.
 
-Link do Projeto no meu portfólio do GitHub: https://github.com/seppdaniel/project13-wind-turbine-analysis
+Link do Projeto no meu portfólio do GitHub: https://github.com/seppdaniel/project12-wind-turbine-analysis
 
 #agro #eficienciaenergética #turbinaseolicas #analisededados #sustentabilidade 
